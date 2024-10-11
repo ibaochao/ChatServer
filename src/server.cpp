@@ -18,9 +18,9 @@ using namespace std;
 
 int main(){
     string port = "3306";  // MySQL端口
-    string user = "zbc";  // MySQL用户名
-    string passwd = "Zbc@985107";  // MySQL密码
-    string databasename = "zbc_db";  // MySQL数据库名称
+    string user = "XXXX";  // MySQL用户名
+    string passwd = "XXXX";  // MySQL密码
+    string databasename = "XXXX";  // MySQL数据库名称
     int sql_num = 8;  // MySQL连接池中连接数量
     
     string nosql_port = "6379";  // Redis端口
