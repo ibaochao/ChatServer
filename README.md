@@ -14,6 +14,12 @@
 
 ## 编译运行
 
+下载axio
+
+```txt
+https://pan.baidu.com/s/10MCok8DkCp3B-6cBKw308A?pwd=7777
+```
+
 编译
 
 ```txt
