@@ -14,7 +14,7 @@
 
 ## 编译运行
 
-下载axio
+下载asio
 
 ```txt
 https://pan.baidu.com/s/10MCok8DkCp3B-6cBKw308A?pwd=7777
